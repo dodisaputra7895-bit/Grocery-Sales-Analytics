@@ -44,8 +44,6 @@ Data Cleaning → Data Transformation → KPI Definition → Pivot Analysis → 
 ---
 
 ## 📸 Dashboard Preview
-*(Add your screenshot here)*
-
 ![Dashboard](Dashboard.png)
 
 ---
